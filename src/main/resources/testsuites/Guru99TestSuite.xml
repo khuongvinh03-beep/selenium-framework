@@ -2,14 +2,14 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Guru99 Bank Test Suite">
   <listeners>
-    <listener class-name="vn.edu.vitacademy.common.listener.TestListener" />
+    <listener class-name="Guru99.common.listener.TestListener" />
   </listeners>
   <test name="Login and Smoke Tests" preserve-order="true" verbose="2">
     <parameter name="browser" value="Chrome"/>
     <parameter name="url" value="https://demo.guru99.com/V4/index.php"/>
     <classes>
-      <class name="vn.edu.vitacademy.tests.LoginTest" />
-      <class name="vn.edu.vitacademy.tests.NewCustomerTest" />
+      <class name="Guru99.tests.LoginTest" />
+      <class name="Guru99.tests.NewCustomerTest" />
     </classes>
   </test>
 </suite>
