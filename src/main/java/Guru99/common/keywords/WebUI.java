@@ -380,7 +380,7 @@ public class WebUI {
         try {
             LOGGER.info("Taking screenshot");
             byte[] images = ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
-            if (.images != null) {
+            if (images != null) {
                 LOGGER.info("Taking screenshot successfully");
                 return images;
             }
