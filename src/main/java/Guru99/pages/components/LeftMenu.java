@@ -1,8 +1,8 @@
-package vn.edu.vitacademy.pages.components;
+package Guru99.pages.components;
 
-import vn.edu.vitacademy.common.keywords.WebUI;
-import vn.edu.vitacademy.pages.NewCustomerPage;
-import vn.edu.vitacademy.common.helper.JsonHelper;
+import Guru99.common.keywords.WebUI;
+import Guru99.pages.NewCustomerPage;
+import Guru99.common.helper.JsonHelper;
 
 public class LeftMenu {
 

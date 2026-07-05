@@ -1,4 +1,4 @@
-package vn.edu.vitacademy.tests;
+package Guru99.tests;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

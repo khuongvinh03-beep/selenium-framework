@@ -1,10 +1,10 @@
-package vn.edu.vitacademy.pages;
+package Guru99.pages;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import vn.edu.vitacademy.common.keywords.WebUI;
-import vn.edu.vitacademy.common.helper.JsonHelper;
-import vn.edu.vitacademy.model.UserCredential;
+import Guru99.common.keywords.WebUI;
+import Guru99.common.helper.JsonHelper;
+import Guru99.model.UserCredential;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

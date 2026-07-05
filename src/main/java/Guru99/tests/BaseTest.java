@@ -1,14 +1,14 @@
-package vn.edu.vitacademy.tests;
+package Guru99.tests;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.testng.annotations.*;
-import vn.edu.vitacademy.common.helper.FileHelper;
-import vn.edu.vitacademy.common.keywords.WebUI;
-import vn.edu.vitacademy.pages.LoginPage;
-import vn.edu.vitacademy.pages.NewCustomerPage;
-import vn.edu.vitacademy.common.helper.JsonHelper;
-import vn.edu.vitacademy.model.Config;
+import Guru99.common.helper.FileHelper;
+import Guru99.common.keywords.WebUI;
+import Guru99.pages.LoginPage;
+import Guru99.pages.NewCustomerPage;
+import Guru99.common.helper.JsonHelper;
+import Guru99.model.Config;
 
 public class BaseTest {
 

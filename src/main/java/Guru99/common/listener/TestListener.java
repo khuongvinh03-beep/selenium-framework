@@ -1,9 +1,9 @@
-package vn.edu.vitacademy.common.listener;
+package Guru99.common.listener;
 
 import org.testng.ITestListener;
 import org.testng.ITestResult;
-import vn.edu.vitacademy.tests.BaseTest;
-import vn.edu.vitacademy.common.keywords.WebUI;
+import Guru99.tests.BaseTest;
+import Guru99.common.keywords.WebUI;
 
 public class TestListener implements ITestListener {
 

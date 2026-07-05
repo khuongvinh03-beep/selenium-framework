@@ -1,4 +1,4 @@
-package vn.edu.vitacademy.tests;
+package Guru99.tests;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -6,8 +6,8 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
-import vn.edu.vitacademy.pages.LoginPage;
-import vn.edu.vitacademy.pages.NewCustomerPage;
+import Guru99.pages.LoginPage;
+import Guru99.pages.NewCustomerPage;
 
 public class NewCustomerTest extends BaseTest {
 

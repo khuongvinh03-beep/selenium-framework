@@ -1,7 +1,7 @@
-package vn.edu.vitacademy.pages;
+package Guru99.pages;
 
-import vn.edu.vitacademy.common.keywords.WebUI;
-import vn.edu.vitacademy.pages.components.LeftMenu;
+import Guru99.common.keywords.WebUI;
+import Guru99.pages.components.LeftMenu;
 
 public class BasePage {
 

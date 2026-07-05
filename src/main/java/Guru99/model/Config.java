@@ -1,4 +1,4 @@
-package vn.edu.vitacademy.model;
+package Guru99.model;
 
 public class Config {
     private String browser;
