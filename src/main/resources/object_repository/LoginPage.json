@@ -1,0 +1,10 @@
+{
+  "BTN_LOGIN": "name:btnLogin",
+  "BTN_REGISTER_HERE": "xpath://a[normalize-space()='here']",
+  "BTN_SUBMIT": "xpath://input[@name='btnLogin']",
+  "LBL_PASSWORD": "xpath://td[normalize-space()='Password :']/following-sibling::td",
+  "LBL_USER_ID": "xpath://td[normalize-space()='User ID :']/following-sibling::td",
+  "TXT_EMAIL_ID": "xpath://input[@name='emailid']",
+  "TXT_PASSWORD": "name:password",
+  "TXT_USERNAME": "name:uid"
+}

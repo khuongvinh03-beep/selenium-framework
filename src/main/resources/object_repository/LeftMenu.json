@@ -1,0 +1,4 @@
+{
+  "LNK_LOG_OUT": "xpath://a[normalize-space()='Log out']",
+  "LNK_NEW_CUSTOMER": "xpath://a[normalize-space()='New Customer']"
+}
